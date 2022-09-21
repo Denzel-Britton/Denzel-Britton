@@ -9,7 +9,7 @@
 
 <a href="https://www.linkedin.com/in/denzel-britton/">
 <br>
-<img src="https://img.shields.io/badge/Linkedin%20-My%20%20Linkedin-blue"/>
+<img src="https://img.shields.io/badge/%20-Linkedin%20%20-blue"/>
 </a>
 
 <h4> Hi, I’m @Denzel-Britton 👀 I’m interested in coding, gaming, and Tough Mudders! 🌱 I’m currently learning Full Stack Development
