@@ -16,7 +16,7 @@
 </h4>
 <h3>
 
-[//]: # (h3👨‍💻 Portfolio: https://roxza.me <br/>)
+[//]: # (h3👨‍💻 Portfolio: <br/>)
 
 <h4>Skills</h4>
 </h3>
