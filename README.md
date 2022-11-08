@@ -18,7 +18,7 @@
   <a href="https://zeltron-df6c0.web.app/">Zeltron</a>
 
 
- <h3>👨‍💻 Portfolio: <a href="htps://denzel-britton.github.io/My_Website.io/"> MY PORTFOLIO </a>  </h3>
+ <h3>👨‍💻 Portfolio:</h3> <a href="htps://denzel-britton.github.io/My_Website.io/"></a>
 
 <h4>Skills</h4>
 </h3>
