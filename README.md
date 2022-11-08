@@ -19,7 +19,7 @@
 
 
  <h3>👨‍💻 Portfolio:</h3>
-  <a href="htps://denzel-britton.github.io/My_Website.io/">DevDenzel</a>
+  <a href="https://denzel-britton.github.io/My_Website.io/">DevDenzel</a>
 
 <h4>Skills</h4>
 </h3>
