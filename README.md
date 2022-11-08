@@ -16,7 +16,7 @@
  
   <h3>What im currently working on: </h3>
   <a href="https://zeltron-df6c0.web.app/">
-<h3>
+
 
 [//]: # (h3👨‍💻 Portfolio: <br/>)
 
