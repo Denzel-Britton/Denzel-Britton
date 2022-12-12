@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/%20-Linkedin%20%20-blue"/>
 </a>
 
-<h4> Hi, I’m @Denzel-Britton 👀 I’m interested in coding, gaming, and Tough Mudders! I’m currently learning Full Stack Development.</h4>
+<h4> Hi, I’m @Denzel-Britton! I’m currently learning Full Stack Development/ React .</h4>
  
   <h3>What im currently working on: </h3>
   <a href="https://zeltron-df6c0.web.app/">Zeltron</a>
