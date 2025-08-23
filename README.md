@@ -12,11 +12,13 @@
 <img src="https://img.shields.io/badge/%20-Linkedin%20%20-blue"/>
 </a>
 
-<h4> Hi, I’m @Denzel-Britton! I’m currently learning Full Stack Development/ React .</h4>
+<h4> Hi, I’m @Denzel-Britton! I’m currently Python.</h4>
  
   <h3>What im currently working on: </h3>
+  
   <a href="https://zeltron-df6c0.web.app/">Zeltron</a>
-
+  
+ <h1>Password Strenght checker</h1>
 
  <h3>👨‍💻 Portfolio:</h3> <a href="https://denzel-britton.github.io/My_Website.io/">
   DevDenzel</a>
