@@ -15,9 +15,9 @@
 <h4> Hi, I’m @Denzel-Britton! I’m currently learning Python.</h4>
  
   <h3>What im currently working on: </h3>
-  
+  <a href="https://github.com/Denzel-Britton/Password_Checker.git">Password Strenght checker</a>
   <a href="https://zeltron-df6c0.web.app/">Zeltron</a>
-  <h4>Password Strenght checker</h4>
+<!--   <h4>Password Strenght checker</h4> -->
 
  <h3>👨‍💻 Portfolio:</h3> <a href="https://denzel-britton.github.io/My_Website.io/">
   DevDenzel</a>
