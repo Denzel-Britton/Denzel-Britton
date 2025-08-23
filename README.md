@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🥷🏼 Denzel </h1>
+  <h1> Denzel  </h1>
 
 <img alt="os" src="https://img.shields.io/badge/os-Mac OS-blue" />
 
