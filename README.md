@@ -17,7 +17,7 @@
   <h3>What im currently working on: </h3>
   
   <a href="https://zeltron-df6c0.web.app/">Zeltron</a>
-  <h1>Password Strenght checker</h1>
+  <h4>Password Strenght checker</h4>
 
  <h3>👨‍💻 Portfolio:</h3> <a href="https://denzel-britton.github.io/My_Website.io/">
   DevDenzel</a>
