@@ -1,8 +1,6 @@
 <div align="center">
   <h1> Denzel  </h1>
 
-<img alt="os" src="https://img.shields.io/badge/os-Mac OS-blue" />
-
 <a  href="mailto:denzelwbritton@gmail.com">
 <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
 </a>
